@@ -16,6 +16,9 @@
 
 7. `lombok` 开发神器，减少写代码量
 
+# 推荐视频
+* https://www.bilibili.com/video/BV1nV4y1s7ZN/
+
    
 
    
